@@ -16,9 +16,9 @@ VibeGuard is a collection of **auto-activating security skills** for AI coding a
 
 This repository contains **3 free skills** from the full VibeGuard pack:
 
-1. **Prompt Injection Defense** â€” Catch malicious user input before it reaches your LLM
-2. **Dependency Vetting** â€” Audit packages before `npm install` with Socket.dev
-3. **OWASP Top 10 Code Review** â€” Full OWASP checklist mapped to AI-generated code
+1. **Prompt Injection Defense** — Catch malicious user input before it reaches your LLM
+2. **Dependency Vetting** — Audit packages before `npm install` with Socket.dev
+3. **OWASP Top 10 Code Review** — Full OWASP checklist mapped to AI-generated code
 
 ### Full VibeGuard Pack ($19)
 
@@ -36,7 +36,7 @@ The complete pack includes **15 skills** covering:
 - Incident Response
 - Security Testing
 
-**Get the full pack â†’ [vibeguard.dev](https://vibeguard.dev)** *(link active after launch)*
+**Get the full pack → [vibeguard.dev](https://vibeguard.dev)** *(link active after launch)*
 
 ## Installation
 
@@ -63,10 +63,10 @@ That's it. Skills auto-activate when you hit a risky pattern.
 ## How It Works
 
 Each skill has:
-- **Trigger conditions** â€” activates automatically when you hit a risky pattern
-- **Security checklist** â€” what to verify before shipping
-- **Copy-paste fix prompts** â€” paste into your agent, get the fix
-- **Red flags** â€” what to look for in AI-generated code
+- **Trigger conditions** — activates automatically when you hit a risky pattern
+- **Security checklist** — what to verify before shipping
+- **Copy-paste fix prompts** — paste into your agent, get the fix
+- **Red flags** — what to look for in AI-generated code
 
 ### Example Workflow
 
@@ -80,19 +80,19 @@ Each skill has:
 
 ## Why VibeGuard?
 
-âŒ **Not reference material.** Most open-source security skills are 1,000-line markdown files you'll never read. VibeGuard ships with copy-paste fix prompts.
+❌ **Not reference material.** Most open-source security skills are 1,000-line markdown files you'll never read. VibeGuard ships with copy-paste fix prompts.
 
-âŒ **Not for security pros.** This is for vibe coders who ship on Friday and don't have time to read OWASP ASVS 5.0.
+❌ **Not for security pros.** This is for vibe coders who ship on Friday and don't have time to read OWASP ASVS 5.0.
 
-âœ… **Auto-activates.** Skills trigger when you hit risky patterns. No manual invocation.
+✅ **Auto-activates.** Skills trigger when you hit risky patterns. No manual invocation.
 
-âœ… **Stack-aware.** Works with Next.js, Supabase, Firebase, Stripe, Vercel â€” the vibe coder's stack.
+✅ **Stack-aware.** Works with Next.js, Supabase, Firebase, Stripe, Vercel — the vibe coder's stack.
 
-âœ… **Tested on real incidents.** Built from analysis of CodeRabbit PwnedRabbit, Lovable CVE-2025-48757 (CVSS 9.3), Cursor CVE-2025-54136 (CVSS 8.8), and the awstore.cloud attack.
+✅ **Tested on real incidents.** Built from analysis of CodeRabbit PwnedRabbit, Lovable CVE-2025-48757 (CVSS 9.3), Cursor CVE-2025-54136 (CVSS 8.8), and the awstore.cloud attack.
 
 ## Works With
 
-âœ… Claude Code Â· âœ… Cursor Â· âœ… OpenCode Â· âœ… Windsurf Â· âœ… Codex Â· âœ… Replit Agent Â· âœ… GitHub Copilot Â· âœ… Any agent that supports markdown skill files
+✅ Claude Code · ✅ Cursor · ✅ OpenCode · ✅ Windsurf · ✅ Codex · ✅ Replit Agent · ✅ GitHub Copilot · ✅ Any agent that supports markdown skill files
 
 ## The Vibe-Coding Security Crisis
 
@@ -107,12 +107,6 @@ VibeGuard was built after researching the security crisis of 2026:
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
-
-## Support
-
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/vibeguard/issues)
-- **Email:** support@vibeguard.dev
-- **Website:** [vibeguard.dev](https://vibeguard.dev)
 
 ## Changelog
 
